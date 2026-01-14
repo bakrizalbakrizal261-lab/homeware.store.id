@@ -1,0 +1,7 @@
+{
+  "name": "Bakrizal Jadwal - Prayer Times & Spiritual Wisdom",
+  "description": "A sophisticated Indonesian prayer times application featuring real-time schedules, automatic location detection, and AI-powered spiritual reflections using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
